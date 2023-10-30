@@ -1,0 +1,7 @@
+NOME_ORG=teste123-2
+DB_NAME=testerust
+DB_USER=4ntz
+DB_PASSWORD=chgeRahQzjA]@tap
+DB_HOST=localhost
+DB_PORT=3306
+GITHUB_TOKEN=123
